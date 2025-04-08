@@ -40,10 +40,14 @@ This project is an **interactive web dashboard** built using **R Shiny** to visu
 - Responsive UI for better user experience
 - Real-time updates based on selections
 
+---
+
 **Languages**: R Studio
 
 **Libraries**:
   - Tidyverse, shiny
+
+---
 
 ## Fairness Considerations
 
