@@ -40,6 +40,22 @@ This project is an **interactive web dashboard** built using **R Shiny** to visu
 - Responsive UI for better user experience
 - Real-time updates based on selections
 
+**Languages**: R Studio
+
+**Libraries**:
+  - Tidyverse, shiny
+
+## Fairness Considerations
+
+Due to the inclusion of sensitive features such as **sex** and **race**, this dataset is also suitable for analyzing algorithmic bias and fairness.
+
+## 📌 Future Enhancements
+
+- Deploy the model via a web app or API
+- Perform bias mitigation techniques
+- Conduct hyperparameter optimization
+- Use SHAP for model interpretability
+
 ---
 ## License
 
