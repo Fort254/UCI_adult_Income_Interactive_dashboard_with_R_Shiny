@@ -53,7 +53,7 @@ This project is an **interactive web dashboard** built using **R Shiny** to visu
 
 Due to the inclusion of sensitive features such as **sex** and **race**, this dataset is also suitable for analyzing algorithmic bias and fairness.
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 - Deploy the model via a web app or API
 - Perform bias mitigation techniques
