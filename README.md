@@ -41,4 +41,13 @@ This project is an **interactive web dashboard** built using **R Shiny** to visu
 - Real-time updates based on selections
 
 ---
+## License
 
+This project is for educational and research purposes. The dataset is publicly available from the UCI Machine Learning Repository.
+
+---
+
+## Acknowledgements
+
+- UCI Machine Learning Repository
+- 1994 Census Bureau database
